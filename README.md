@@ -16,4 +16,5 @@ spring.datasource.password=(mysql şifreniz)
 
 ![SS](https://github.com/OZDOKUR/Admin-paneli/assets/95628525/019180fa-b9f3-4ec3-a32c-95069fff8a63)
 
-![ss2](https://github.com/OZDOKUR/Admin-paneli/assets/95628525/d0b2f5df-448a-4069-9019-4751e548b6dc)
+
+![ss3](https://github.com/OZDOKUR/Admin-paneli/assets/95628525/9d87f9ae-0793-443f-b7fb-db76118d9420)
