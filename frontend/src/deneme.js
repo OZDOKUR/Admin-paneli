@@ -134,6 +134,7 @@ export default function CustomizedTables() {
       setAuthor("");
       setDescription("");
       setPrice("");
+      window.location.reload();
     } catch (error) {
       console.error("Veri ekleme hatası:", error);
     }
